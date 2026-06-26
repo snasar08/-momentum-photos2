@@ -1,3 +1,7 @@
 node_modules/
 .next/
 .vercel
+.test-photos/
+.test-photos-results.json
+.debug-failure.png
+.debug-failure.html
